@@ -58,3 +58,8 @@ Further, Now Connecting Database
 
 After Creating Database,
 9th Step: Moreover, Open a browser and go to URL “http://localhost/hospitalanagmentsystem/hospital”
+
+
+link to the full file here
+
+https://drive.google.com/drive/folders/11yQ3ZNqfJ_Z5oUP8qCgSow_EvN4IKUrt?usp=drive_link
